@@ -6,7 +6,7 @@
 
 ### Java - Curso em Vídeo ☕▶
 
-<p align="justify"><strong>Projeto Trângulo</strong> desenvolvido na Aula 10 do Curso de Java do Curso em Vídeo. Nesse projeto utilizamos a tecnologia <strong>Swing</strong> e programamos os elementos da Interface Gráfica, sendo possível o usuário escolher 3 números através dos sliders e assim conseguir identificar se os três valores escolhidos formam um triângulo e o tipo que ele representa.</p>
+<p align="justify"><strong>Projeto Trângulo</strong> desenvolvido na Aula 10 de Java do Curso em Vídeo. Nesse projeto utilizamos a tecnologia <strong>Swing</strong> e programamos os elementos da Interface Gráfica, sendo possível o usuário escolher 3 números através dos sliders e assim conseguir identificar se os três valores escolhidos formam um triângulo e o tipo que ele representa.</p>
 
 <p align="center">
   <img alt="cursoemvideo" src=".github/cursoemvideo.png" />
